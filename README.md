@@ -24,4 +24,4 @@ The AI-predicted path (Red) perfectly aligns with the analytical mathematical so
 ![Final Results Plot](result_plot.png)
 
 ## Significance
-As a Physics student (National Rank 5, Nepal) and aspiring Computer Scientist, I developed this project to explore **AI for Science**. It demonstrates that neural networks can be used as powerful solvers for complex differential equations in mechanical and structural engineering.
+I developed this project to explore **AI for Science**. It demonstrates that neural networks can be used as powerful solvers for complex differential equations physics and engineering.
